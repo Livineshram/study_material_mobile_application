@@ -1,0 +1,28 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# IDE & OS Files
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Gradle & Android
+gradle-wrapper.jar
+/.gradle
+/captures/
+gradlew
+gradlew.bat
+/local.properties
+
+# Flutter Generated
+GeneratedPluginRegistrant.java
+
+# Security & Keystore (DO NOT SHARE)
+key.properties
+**/*.keystore
+**/*.jks

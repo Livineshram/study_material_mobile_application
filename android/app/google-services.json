@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826788011815",
+    "project_id": "studenthubapp-fbbc3",
+    "storage_bucket": "studenthubapp-fbbc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826788011815:android:44923ad4760a1f4d2e5302",
+        "android_client_info": {
+          "package_name": "com.example.studenthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826788011815-lkbfhkv6tn92l927a4t46njhtin830qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studenthub",
+            "certificate_hash": "ccf35bd3b52be0500443d2bd586a4b223a65753a"
+          }
+        },
+        {
+          "client_id": "826788011815-ea37fu83muokgoiaoth4ustr96e1n7qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxGHx4ddyIP7FBx6qAIsNp0YIX3ta9Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826788011815-ea37fu83muokgoiaoth4ustr96e1n7qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
